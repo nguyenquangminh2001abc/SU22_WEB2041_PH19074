@@ -1,0 +1,28 @@
+.logo_user_header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.form_user_header{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+.user_header{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+#name_user{
+    margin-bottom: 0px;
+    margin-left: 15px;
+}
+
+/* end header */
+
+.main > section{
+    width: 100%;
+    padding: 25px 25px;
+}

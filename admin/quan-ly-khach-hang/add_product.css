@@ -1,0 +1,44 @@
+.logo_user_header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+.user_header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.form_user_header{
+    display: flex;
+}
+.form_user_header>form{
+    margin: auto;
+}
+.form_user_header>form>div{
+    margin-bottom: 8px;
+}
+.form_user_header>form>input{
+    background-color: white;
+    border: 0.5px solid grey;
+}
+.form_user_header>form>input:hover{
+    background-color: #F2121A;
+    color:white ;
+    border: 0.5px solid rgb(255, 255, 255);
+}
+.form_user_header>form>div>i{
+    font-size: 25px;
+}
+#name_user{
+    margin-bottom: 0px;
+    margin-left: 15px;
+}
+
+/* end header */
+
+.main > section{
+    width: 100%;
+    padding: 25px 25px;
+}

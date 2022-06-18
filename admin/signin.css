@@ -1,0 +1,13 @@
+.sign_in{
+    border: 1px solid rgb(183, 183, 183) ;
+    border-radius : 5px ;
+    width: 40%;
+    display: block;  
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px 15px;
+}
+#question-title{
+    text-align: center;
+}
